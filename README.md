@@ -1,0 +1,4 @@
+#+++
+# firstGit
+
+19AUG2018 1322EDT DOMINATE
